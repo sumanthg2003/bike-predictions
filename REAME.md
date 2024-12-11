@@ -36,11 +36,11 @@ Random Forest
 Gradient Boosting (e.g., XGBoost)
 Performed hyperparameter tuning to optimize model performance.
 
-Evaluation:
+-Evaluation:
 
 Evaluated model performance using metrics such as RMSE (Root Mean Squared Error) and R^2 score.
 
-Prediction and Insights:
+-Prediction and Insights:
 
 Predicted future demand based on new data.
 Provided actionable insights for resource allocation.

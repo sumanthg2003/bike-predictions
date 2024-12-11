@@ -8,8 +8,11 @@ Dataset:
 The dataset used in this project includes the following features:
 
 a.Date/Time: Timestamp of the observation.
+
 b.Weather Conditions: Temperature, humidity, wind speed, and weather category.
+
 c.Seasonal Factors: Information about the season and holiday status.
+
 d.Bike Rentals: The target variable indicating the number of bikes rented.The dataset was preprocessed to handle missing values, outliers, and feature scaling to ensure robust model performance.
 
 Steps in the Project:
